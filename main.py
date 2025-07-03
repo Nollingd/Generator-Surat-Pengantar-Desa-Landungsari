@@ -1,1 +1,1 @@
-streamlit run \form\form.py
+streamlit run /form/form.py
